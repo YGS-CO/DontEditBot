@@ -27,6 +27,6 @@ Example: https://api.telegram.org/bot2410172AGLGw1-P8Djir3ngaWDF-_Cf5Nzx-47Q/set
 
 # رفع مشکل 
 # [David](https://telegram.me/MrDear)
-# -------------------------------------------
+# -----------
 # |[Channel](https://telegram.me/MrFastTeam)|
-# -------------------------------------------
+# -----------
