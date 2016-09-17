@@ -9,7 +9,7 @@
 # راهنمای نصب و اجرا
 
 ```sh
-# Tested and will run without problem
+#Tested and will run without problem
 
 Import the https://github.com/MrFastBot/edit to your Github and edit(line 3 token|line 4 userid)
 Creating an account on the site www.openshift.com
@@ -27,6 +27,4 @@ Example: https://api.telegram.org/bot2410172AGLGw1-P8Djir3ngaWDF-_Cf5Nzx-47Q/set
 
 # رفع مشکل 
 # [David](https://telegram.me/MrDear)
-# -----------
-# |[Channel](https://telegram.me/MrFastTeam)|
-# -----------
+# [Channel](https://telegram.me/MrFastTeam)
