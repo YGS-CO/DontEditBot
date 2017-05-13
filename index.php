@@ -1,7 +1,7 @@
 <?php
 ob_start();
-define('API_KEY','270127677:AAHjJCk7v_4-9T0gZWxw84WvgR8He2LpNJU');
-$admin = "239607076";
+define('API_KEY','<token>');
+$admin = "SudoUserID";
 function bot($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
     $ch = curl_init();
@@ -44,7 +44,7 @@ if (isset($update->edited_message)){
   //$up = file_get_contents(__DIR__.'/users/'.$eid.'.json');
   //str_replace("edited_message","message",$up);
 }elseif(preg_match('/^\/([Ss]tart)/',$text1)){
-  $text = "<b>Welcome To Do Not Edit Bot</b>\n<a href='https://telegram.me/DoNotEditBot?startgroup=new'>Add Me To Group</a>
+  $text = "<b>Welcome To Don't Edit Bot</b>\n<a href='https://telegram.me/BotID?startgroup=new'>Add Me To Group</a>
   bot('sendmessage',[
     'chat_id'=>$chat_id,
     'text'=>$text,
@@ -52,10 +52,10 @@ if (isset($update->edited_message)){
     'reply_markup'=>json_encode([
       'inline_keyboard'=>[
         [
-          ['text'=>'David','url'=>'https://telegram.me/MrDear']
+          ['text'=>'Sudo','url'=>'https://telegram.me/SudoID']
         ],
         [
-          ['text'=>'Mr.Fast Team','url'=>'https://telegram.me/MrFastTeam']
+          ['text'=>'Channel','url'=>'https://telegram.me/ChannelID']
         ]
       ]
     ])
@@ -66,7 +66,7 @@ if (isset($update->edited_message)){
     $mmemcount = count($member_id) -1;
   bot('sendMessage',[
       'chat_id'=>$chat_id,
-      'text'=>"کاربران : $mmemcount 👤 "
+      'text'=>"Users : $mmemcount 👤 "
     ]);
 
 }elseif(isset($update->message-> new_chat_member )){
