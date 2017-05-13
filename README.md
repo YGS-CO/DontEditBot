@@ -1,4 +1,4 @@
-# [DoNotEditBOT](https://telegram.me/DoNotEditBot)
+# [DoNotEditBOT](https://telegram.me/YGSCO)
 
 * **Training runs on free hosting**
 [openshift](https://www.openshift.com/)
@@ -22,9 +22,9 @@ The last step is to set the webhook
 
 https://api.telegram.org/bot<token>/setwebhook?url=https://harchi-harchi.rhcloud.com/index.php
 
-Example: https://api.telegram.org/bot2410172AGLGw1-P8Djir3ngaWDF-_Cf5Nzx-47Q/setwebhook?url=https://phpdontedit-alirezapt.rhcloud.com/index.php
+Example: https://api.telegram.org/bot2410172AGLGw1-P8Djir3ngaWDF-_Cf5Nzx-47Q/setwebhook?url=https://phpdontedit-devwolf.rhcloud.com/index.php
 ```
 
 # رفع مشکل 
-# [David](https://telegram.me/MrDear)
-# [Channel](https://telegram.me/MrFastTeam)
+# [David](https://telegram.me/DevWolf)
+# [Channel](https://telegram.me/YGSCO)
