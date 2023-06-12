@@ -1,4 +1,4 @@
-# [Don't Edit Bot](https://telegram.me/YGSCO)
+# [Don't Edit Bot](https://telegram.me/bagalesarekooche)
 
 * **Training runs on free hosting**
 [openshift](https://www.openshift.com/)
@@ -26,6 +26,6 @@ Example: https://api.telegram.org/bot2410172AGLGw1-P8Djir3ngaWDF-_Cf5Nzx-47Q/set
 ```
 
 # رفع مشکل 
-[David](https://telegram.me/DevWolf)
+[David](https://telegram.me/user)
 
-[Channel](https://telegram.me/YGSCO)
+[Channel](https://telegram.me/bagalesarekooche)
